@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rmz meter project.props" />
+</Project>
